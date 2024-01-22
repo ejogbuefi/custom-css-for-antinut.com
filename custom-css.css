@@ -1,0 +1,78 @@
+#a18cd068f7070174f75799b0f035bffe>.wb_content {
+    min-width: 20px;
+    min-height: 20px;
+    padding: 0 0 0 0;
+    border: 6px solid #fff000;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    background: rgba(255,196,0,.36) url(../gallery_gen/e8b8cc4…_fit.png) no-repeat scroll right 40px top 150px;
+    background-size: 220px 220px;
+    opacity: 1;
+    justify-items: flex-start;
+    align-items: center;
+    justify-content: flex-start;
+    align-content: stretch;
+    flex-wrap: nowrap;
+    text-shadow: none;
+    box-shadow: none;
+}
+@media (min-width: 1200px){
+    #a18cd088f50e000e92e8f4fcaee0a2c7 {
+        left: 53px;
+        top: 6px;
+        width: 855px;
+        height: auto;
+    }
+    
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    #a18cd088f50e000e92e8f4fcaee0a2c7 {
+        display: none;
+    }
+    
+}
+@media (min-width: 992px){
+    #a18cca80efdf0060c0c09bd274703f60 {
+        margin: -1350px 0 0 0;
+        opacity: 1;
+        width: 90%;
+        height: auto;
+        max-width: 100%;
+        flex: 0 0 auto;
+        text-shadow: none;
+        box-shadow: none;
+    }
+}
+@media (max-width: 992px){
+    #a18ceaaf1e4400bbd9a9e752a6076aab>.wb_content {
+        min-width: 20px;
+        min-height: 20px;
+        padding: 0 0 0 0;
+        border: 6px solid #fff000;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+        border-radius: 0;
+        background: rgba(255,196,0,.36) url(../gallery_gen/fc8682d…_fit.png) no-repeat scroll right 10px top 210px;
+        background-size: 100px 100px;
+        opacity: 1;
+        justify-items: flex-start;
+        align-items: center;
+        justify-content: flex-start;
+        align-content: stretch;
+        flex-wrap: nowrap;
+        text-shadow: none;
+        box-shadow: none;
+    }
+    #a18ceab2d4ce007ab8840e1a9e37f31b {
+        opacity: 1;
+        width: 94%;
+        height: auto;
+        max-width: 100%;
+        flex: 0 0 auto;
+        text-shadow: none;
+        box-shadow: none;
+    }
+}
+
+
